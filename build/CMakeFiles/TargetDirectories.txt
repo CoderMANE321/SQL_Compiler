@@ -1,0 +1,3 @@
+C:/Coding/SQL_Compiler/build/CMakeFiles/SQL_COMPILER.dir
+C:/Coding/SQL_Compiler/build/CMakeFiles/edit_cache.dir
+C:/Coding/SQL_Compiler/build/CMakeFiles/rebuild_cache.dir

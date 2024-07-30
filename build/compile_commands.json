@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Coding/SQL_Compiler/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\SQL_COMPILER.dir\\src\\main.c.obj -c C:\\Coding\\SQL_Compiler\\src\\main.c",
+  "file": "C:/Coding/SQL_Compiler/src/main.c",
+  "output": "CMakeFiles/SQL_COMPILER.dir/src/main.c.obj"
+}
+]

@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\SQL_COMPILER.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\SQL_COMPILER.dir/objects.a @CMakeFiles\SQL_COMPILER.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\SQL_COMPILER.dir/objects.a -Wl,--no-whole-archive -o SQL_COMPILER.exe -Wl,--out-implib,libSQL_COMPILER.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SQL_COMPILER.dir\linkLibs.rsp
