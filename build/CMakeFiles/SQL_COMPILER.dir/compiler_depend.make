@@ -5,6 +5,7 @@ CMakeFiles/SQL_COMPILER.dir/src/main.c.obj: C:/Coding/SQL_Compiler/src/main.c \
   C:/MinGW/include/_mingw.h \
   C:/MinGW/include/msvcrtver.h \
   C:/MinGW/include/sdkddkver.h \
+  C:/MinGW/include/stdint.h \
   C:/MinGW/include/stdio.h \
   C:/MinGW/include/stdlib.h \
   C:/MinGW/include/string.h \
@@ -15,7 +16,8 @@ CMakeFiles/SQL_COMPILER.dir/src/main.c.obj: C:/Coding/SQL_Compiler/src/main.c \
   C:/MinGW/include/wchar.h \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/stdarg.h \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/stdbool.h \
-  C:/MinGW/lib/gcc/mingw32/6.3.0/include/stddef.h
+  C:/MinGW/lib/gcc/mingw32/6.3.0/include/stddef.h \
+  C:/MinGW/lib/gcc/mingw32/6.3.0/include/stdint.h
 
 
 C:/Coding/SQL_Compiler/src/main.c:
@@ -28,11 +30,13 @@ C:/MinGW/include/sdkddkver.h:
 
 C:/MinGW/include/msvcrtver.h:
 
+C:/MinGW/include/stdint.h:
+
 C:/MinGW/include/stdio.h:
 
-C:/MinGW/include/strings.h:
-
 C:/MinGW/include/stdlib.h:
+
+C:/MinGW/include/strings.h:
 
 C:/MinGW/include/sys/types.h:
 
@@ -45,3 +49,5 @@ C:/MinGW/lib/gcc/mingw32/6.3.0/include/stdarg.h:
 C:/MinGW/lib/gcc/mingw32/6.3.0/include/stdbool.h:
 
 C:/MinGW/lib/gcc/mingw32/6.3.0/include/stddef.h:
+
+C:/MinGW/lib/gcc/mingw32/6.3.0/include/stdint.h:
